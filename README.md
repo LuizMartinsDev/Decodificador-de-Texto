@@ -2,6 +2,12 @@
 
 Este é um projeto de decodificador de texto desenvolvido com HTML, CSS e JavaScript. Ele permite criptografar e descriptografar mensagens de texto de forma simples e eficaz.
 
+## Demonstração Online
+
+O projeto está hospedado na Vercel e pode ser acessado através do seguinte link:
+
+[Visualizar Portfólio Online](https://decodificador-de-texto-bay.vercel.app/)
+
 ## Estrutura do Projeto
 
 O projeto está estruturado da seguinte forma:
