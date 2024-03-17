@@ -17,6 +17,13 @@ O projeto está estruturado da seguinte forma:
 - **js:** Pasta contendo os arquivos JavaScript do projeto.
 - **index.html:** Arquivo principal que contém a interface do usuário e a lógica do decodificador de texto.
 
+## Tecnologias Utilizadas
+
+- **HTML:** O HTML foi desenvolvido com foco na semântica, utilizando tags como `<header>`, `<main>`, `<footer>`, `<nav>`, entre outras, para garantir uma estrutura clara e acessível.
+  
+- **CSS:** No CSS fiz o uso de variáveis, importação de fontes, media queries e um reset CSS para garantir uma experiência consistente em diferentes dispositivos e navegadores.
+- **Javascript:** O Javascript inclui o uso do DOM para interagir com as tags do HTML, implementação de funções, estruturas condicionais como if-else, iteradores como o for-in e métodos de array.
+
 ## Funcionalidades
 
 O decodificador de texto possui as seguintes funcionalidades:
