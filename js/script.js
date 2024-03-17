@@ -16,7 +16,7 @@ buttonCriptografar.addEventListener('click', () => {
 
     if(conteudoCodificador.length > 0){
 
-        for(var letra in conteudoCodificador){
+        for(let letra in conteudoCodificador){
 
             if( conteudoCodificador[letra] === 'a'){
 
@@ -70,7 +70,7 @@ buttonDescriptografar.addEventListener('click', () => {
     let conteudoDescriptografado = ''
 
     if(conteudoCodificador.length > 0){
-        for(var letra in transformaConteudoCodificadorEmArray){
+        for(let letra in transformaConteudoCodificadorEmArray){
 
             if( transformaConteudoCodificadorEmArray[letra] === 'a'){
 
